@@ -135,7 +135,8 @@ It is composed of multiple layers of artificial neurons.
 
 Artificial neurons, a rough imitation of their biological counterparts, are mathematical functions that calculate the weighted sum of multiple inputs and outputs an activation value.
 
-![image](https://user-images.githubusercontent.com/87691447/151481921-5f9778de-316a-4ac5-9a47-4a883798e2e8.png)
+![image](https://user-images.githubusercontent.com/87691447/151506674-72656401-6cdb-4462-8953-ab1fd859c9cf.png)
+
 
 Plotting Accuracy & Loss to analyze the results:
 
