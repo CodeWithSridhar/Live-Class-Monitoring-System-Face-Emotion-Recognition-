@@ -157,7 +157,8 @@ Our model is very good for predicting happy and surprised faces. However it pred
 
 We have created front-end using Streamlit for webapp and used streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to VideoTransformer function to detect the emotion. Then this model was deployed on heroku platform with the help of buildpack-apt which is necessary to deploy opencv model on heroku.
 
-Link: https://face-emotion-recognition-web.herokuapp.com/ 
+Streamlit: https://share.streamlit.io/codewithsridhar/live-class-monitoring-system-face-emotion-recognition-/main/app.py
+Heroku: https://face-emotion-recognition-web.herokuapp.com/ 
 
 ## Conclusion
 
