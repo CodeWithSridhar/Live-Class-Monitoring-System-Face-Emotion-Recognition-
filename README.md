@@ -1,5 +1,5 @@
 # Live-Class-Monitoring-System-Face-Emotion-Recognition-
-
+------
 ## Introduction
 
 Emotion recognition is the process of identifying human emotion. People vary widely in their accuracy at recognizing the emotions of others. Use of technology to help people with emotion recognition is a relatively nascent research area. Generally, the technology works best if it uses multiple modalities in context. To date, the most work has been conducted on automating the recognition of facial expressions from video, spoken expressions from audio, written expressions from text, and physiology as measured by wearables.
@@ -99,7 +99,6 @@ And lastly we will deploy it on three different plateform
 
    -  Streamlit Share
    -  Heroku
-   -  Amazon WEb Services (AWS)
 
 ![image](https://user-images.githubusercontent.com/87691447/151481439-8259f8cc-bb59-4f2e-9522-23664d4e6b17.png)
 
